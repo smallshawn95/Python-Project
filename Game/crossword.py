@@ -1,0 +1,6 @@
+print('這是一個能把輸入的詞語變成句子的程式030')
+n = input('請輸入名詞(N.)：')
+adj = input('請輸入形容詞(adj.)：')
+v = input('請輸入動詞(V.)：')
+pron = input('請輸入代名詞(pron.)：')
+print('{0}{1}{2}{3}030'.format(n, adj, v, pron))

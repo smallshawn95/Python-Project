@@ -3,11 +3,15 @@
 
 ## 安裝模組
 > **一行安裝**
-```py
-pip install beautifulsoup4 Pygments pylatexenc PyQt5 requests
+```bash
+pip install beautifulsoup4 numpy opencv-python Pillow Pygments pylatexenc PyQt5 requests selenium
 ```
 - beautifulsoup4
+- numpy
+- opencv-python
+- Pillow
 - Pygments
 - pylatexenc
 - PyQt5
 - requests
+- selenium

@@ -1,0 +1,5 @@
+[2023/10/17 23:38:20]-[log_2.py 15]-[DEBUG   ] debug
+[2023/10/17 23:38:20]-[log_2.py 16]-[INFO    ] info
+[2023/10/17 23:38:20]-[log_2.py 17]-[WARNING ] warning
+[2023/10/17 23:38:20]-[log_2.py 18]-[ERROR   ] error
+[2023/10/17 23:38:20]-[log_2.py 19]-[CRITICAL] critical
