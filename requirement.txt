@@ -1,0 +1,11 @@
+beautifulsoup4
+mediapipe
+numpy
+opencv-python
+Pillow
+pyautogui
+Pygments
+pylatexenc
+PyQt5
+requests
+selenium
