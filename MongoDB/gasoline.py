@@ -1,4 +1,4 @@
-import json, datetime
+import json
 from pymongo import MongoClient
 
 client = MongoClient("mongodb://localhost:27017/")
