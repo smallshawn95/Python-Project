@@ -4,13 +4,15 @@
 ## 安裝模組
 > **pip 一行安裝**
 ```bash
-pip install beautifulsoup4 mediapipe numpy opencv-python Pillow pyautogui Pygments pylatexenc pymongo PyQt5 requests selenium
+pip install beautifulsoup4 httpcore httpx mediapipe numpy opencv-python Pillow pyautogui Pygments pylatexenc pymongo pyperclip PyQt5 requests selenium
 ```
 > **pip 文件安裝**
 ```bash
 pip install -r requirement.txt
 ```
 - beautifulsoup4
+- httpcore
+- httpx
 - mediapipe
 - numpy
 - opencv-python
@@ -19,6 +21,7 @@ pip install -r requirement.txt
 - Pygments
 - pylatexenc
 - pymongo
+- pyperclip
 - PyQt5
 - requests
 - selenium

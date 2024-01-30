@@ -1,4 +1,6 @@
 beautifulsoup4
+httpcore
+httpx
 mediapipe
 numpy
 opencv-python
@@ -6,6 +8,7 @@ Pillow
 pyautogui
 Pygments
 pylatexenc
+pyperclip
 PyQt5
 requests
 selenium

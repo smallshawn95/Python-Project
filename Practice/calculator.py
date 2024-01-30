@@ -2,7 +2,7 @@ import tkinter as tk
 
 win = tk.Tk()
 win.title("Calculator")
-win.iconbitmap("./Work/calculator.ico")
+win.iconbitmap("./Practice/calculator.ico")
 
 def calculate():
     result = eval(equ.get())
